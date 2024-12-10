@@ -43,7 +43,7 @@ Dále používáme následující podmínky:
 
 Použití: 
 ```
-maximum_clique.py [-h] [-i INPUT] [-o OUTPUT] [-s SOLVER] [-v {0,1}]
+maximum_clique.py [-h] [-i INPUT] [-o OUTPUT] [-v {0,1}]
 ```
 
 Command-line options:
